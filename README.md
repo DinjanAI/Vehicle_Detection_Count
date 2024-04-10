@@ -38,7 +38,7 @@ pip install -r requirements.txt
 1. Run the main script to start the vehicle in/out detection system:
 
 ```
-python main.py
+python vehicle_counting.py
 ```
 
 2. Adjust the parameters and configurations as needed for your specific environment and requirements.
